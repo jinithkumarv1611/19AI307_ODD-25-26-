@@ -22,11 +22,9 @@ To write a Java program that creates a new file named example.txt using the File
 
 ## PROGRAM:
  ```
-/*
 Program to implement a File Handling using Java
-Developed by: SIVANTH T
-RegisterNumber: 212225240150
-*/
+Developed by: JINITH KUMAR V
+RegisterNumber: 212225040157
 ```
 
 ## SOURCE CODE:
