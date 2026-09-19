@@ -25,11 +25,9 @@ To write a Java program that demonstrates multithreading by creating a user-defi
 
 ## PROGRAM:
  ```
-/*
 Program to implement a Thread Priority Concept using Java
-Developed by: SIVANTH T
-RegisterNumber: 212225240150
-*/
+Developed by: JINITH KUMAR V
+RegisterNumber: 212225040157
 ```
 
 ## SOURCE CODE:
