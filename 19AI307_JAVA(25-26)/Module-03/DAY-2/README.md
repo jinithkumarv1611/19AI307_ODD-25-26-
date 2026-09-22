@@ -9,9 +9,9 @@ area(int side) for square
 area(int length, int breadth) for rectangle
 
 area(double radius) for circle
-
-<img width="447" height="180" alt="image" src="https://github.com/user-attachments/assets/28afedde-02fe-4562-8c03-3310286a0ab0" />
 ```
+<img width="447" height="180" alt="image" src="https://github.com/user-attachments/assets/28afedde-02fe-4562-8c03-3310286a0ab0" />
+
 
 
 ## AIM:
