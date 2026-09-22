@@ -23,7 +23,7 @@ To write a Java program that defines a class Person with private variables and p
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: JINTIH KUMAR V
+Developed by: JINITH KUMAR V
 RegisterNumber: 212225040157
 */
 ```
